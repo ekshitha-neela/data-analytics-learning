@@ -1,5 +1,4 @@
 # data-analytics-learning
-# Data Analytics Learning
 
 Welcome to my Data Analytics Learning Repository.
 
